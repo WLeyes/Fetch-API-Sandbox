@@ -1,0 +1,9 @@
+.profileImage {
+  width: 100px;
+  height: 100px;
+  vertical-align: -webkit-baseline-middle;
+  border-radius: 50%;
+  padding: 5px;
+  border: 1px solid gray;
+  margin-left: 20px;
+}
